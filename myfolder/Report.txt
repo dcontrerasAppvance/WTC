@@ -1,0 +1,17 @@
+﻿Folder Compare
+Produced: 05-ago-16 10:54:17 AM
+
+Mode:  Differences
+Left base folder: C:\appvance\appvance\APC\3.0
+Right base folder: C:\appvance\appvance\APC\ScenarioWideDPL
+Name       Status Version Size        CRC      Modified             Attributes Owner Group    Name                Status Version Size        CRC      Modified             Attributes Owner Group
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+examples                  192,716,902          20-jul-16 8:38:31 AM                           examples                           190,976,854          20-jul-16 8:33:37 AM
+extensions                504,723,765          20-jul-16 8:40:44 AM                           extensions                         504,999,463          20-jul-16 8:36:20 AM
+modules                   167,334,804          04-ago-16 9:50:12 AM                           modules                            271,183,313          20-jul-16 8:31:37 AM
+nbproject                 52,746               20-jul-16 8:41:34 AM                           nbproject                          52,785               04-ago-16 9:50:16 AM
+test                      64,720,468           20-jul-16 8:41:28 AM                           test                               64,735,299           20-jul-16 8:36:55 AM
+version                   271,121              20-jul-16 8:41:34 AM                           version                            271,137              20-jul-16 8:30:09 AM
+                                                                                           << BasicTest3.scenario                5,269       94735390 01-ago-16 8:27:57 AM a
+build.xml                 33,722      EE96915E 04-ago-16 9:50:15 AM a                      >> build.xml                          33,889      A8C4C7C5 20-jul-16 8:32:52 AM a
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
