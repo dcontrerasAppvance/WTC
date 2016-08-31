@@ -1,0 +1,16 @@
+Date: 01-Jun-16 9:19:06 AM
+Screen: MainWindow
+step("wtc_default")
+step("keyCombination")
+thinkTime(2110)
+keyCombination([LControlKey][RMenu][Q])
+Date: 01-Jun-16 9:32:52 AM
+Window: [X:37,Y:85,WIDTH:431,HEIGHT:434,STATE:1]
+Program: Hewlett-Packard
+Path: C:\Appvance_Enterprise\APC-Integration\Wtc\WTC_2.0\AUTWinTester\bin\x64\Release\AUTWinTester.exe
+Repository: <empty_field>
+Screen: MainWindow
+step("wtc_default")
+step("keyCombination")
+thinkTime(3062)
+keyCombination([LControlKey][RMenu][Q])
